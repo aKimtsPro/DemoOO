@@ -1,0 +1,14 @@
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\bin\Debug\net8.0\Exo1_Encapsulation.exe
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\bin\Debug\net8.0\Exo1_Encapsulation.deps.json
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\bin\Debug\net8.0\Exo1_Encapsulation.runtimeconfig.json
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\bin\Debug\net8.0\Exo1_Encapsulation.dll
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\bin\Debug\net8.0\Exo1_Encapsulation.pdb
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\Exo1_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\Exo1_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\Exo1_Encapsulation.AssemblyInfo.cs
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\Exo1_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\Exo1_Encapsulation.dll
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\refint\Exo1_Encapsulation.dll
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\Exo1_Encapsulation.pdb
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\Exo1_Encapsulation.genruntimeconfig.cache
+C:\Users\akimt\source\repos\DemoOO\Exo1_Encapsulation\obj\Debug\net8.0\ref\Exo1_Encapsulation.dll

@@ -1,0 +1,14 @@
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\bin\Debug\net8.0\Exo0_Classes.exe
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\bin\Debug\net8.0\Exo0_Classes.deps.json
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\bin\Debug\net8.0\Exo0_Classes.runtimeconfig.json
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\bin\Debug\net8.0\Exo0_Classes.dll
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\bin\Debug\net8.0\Exo0_Classes.pdb
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\Exo0_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\Exo0_Classes.AssemblyInfoInputs.cache
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\Exo0_Classes.AssemblyInfo.cs
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\Exo0_Classes.csproj.CoreCompileInputs.cache
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\Exo0_Classes.dll
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\refint\Exo0_Classes.dll
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\Exo0_Classes.pdb
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\Exo0_Classes.genruntimeconfig.cache
+C:\Users\akimt\source\repos\DemoOO\Exo0_Classes\obj\Debug\net8.0\ref\Exo0_Classes.dll

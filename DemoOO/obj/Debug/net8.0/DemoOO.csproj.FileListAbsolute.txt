@@ -1,0 +1,4 @@
+C:\Users\akimt\source\repos\DemoOO\DemoOO\obj\Debug\net8.0\DemoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimt\source\repos\DemoOO\DemoOO\obj\Debug\net8.0\DemoOO.AssemblyInfoInputs.cache
+C:\Users\akimt\source\repos\DemoOO\DemoOO\obj\Debug\net8.0\DemoOO.AssemblyInfo.cs
+C:\Users\akimt\source\repos\DemoOO\DemoOO\obj\Debug\net8.0\DemoOO.csproj.CoreCompileInputs.cache

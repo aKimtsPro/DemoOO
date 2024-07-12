@@ -1,0 +1,14 @@
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\bin\Debug\net8.0\Exo2_Indexeurs.exe
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\bin\Debug\net8.0\Exo2_Indexeurs.deps.json
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\bin\Debug\net8.0\Exo2_Indexeurs.runtimeconfig.json
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\bin\Debug\net8.0\Exo2_Indexeurs.dll
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\bin\Debug\net8.0\Exo2_Indexeurs.pdb
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\Exo2_Indexeurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\Exo2_Indexeurs.AssemblyInfoInputs.cache
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\Exo2_Indexeurs.AssemblyInfo.cs
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\Exo2_Indexeurs.csproj.CoreCompileInputs.cache
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\Exo2_Indexeurs.dll
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\refint\Exo2_Indexeurs.dll
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\Exo2_Indexeurs.pdb
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\Exo2_Indexeurs.genruntimeconfig.cache
+C:\Users\akimt\source\repos\DemoOO\Exo2_Indexeurs\obj\Debug\net8.0\ref\Exo2_Indexeurs.dll
